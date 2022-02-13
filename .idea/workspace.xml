@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07b99c01-57e0-48d0-b5cb-62dc913a63c8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean/asgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean_app/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean_app/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean_app/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean_app/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean_app/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean_app/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/digital_ocean_app/views.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/digital_ocean_test.iml" afterPath="$PROJECT_DIR$/.idea/digital_ocean_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/dig_oce_new/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="261">
-              <caret line="122" column="47" lean-forward="false" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
+              <caret line="122" column="42" lean-forward="false" selection-start-line="122" selection-start-column="42" selection-end-line="122" selection-end-column="42" />
               <folding>
                 <element signature="e#312#336#0" expanded="true" />
               </folding>
@@ -272,7 +257,7 @@
     <entry file="file://$PROJECT_DIR$/dig_oce_new/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="122" column="47" lean-forward="false" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
+          <caret line="122" column="42" lean-forward="false" selection-start-line="122" selection-start-column="42" selection-end-line="122" selection-end-column="42" />
           <folding>
             <element signature="e#312#336#0" expanded="true" />
           </folding>
